@@ -2,8 +2,7 @@
 
 An interactive Power BI dashboard that shows **who leaves, where, and why** across a 1,470-employee workforce, built on a Star Schema model so HR teams can drill from company-level attrition down to individual job roles.
 
-![Dashboard preview](images/dashboard-overview.png)
-<!-- Add a screenshot of your dashboard at images/dashboard-overview.png -->
+<img width="1377" height="753" alt="Screenshot 2026-03-30 132537" src="https://github.com/user-attachments/assets/40b7123d-c3dd-4356-bf8a-0590e478f544" />
 
 ---
 
@@ -88,4 +87,4 @@ Employee attrition is expensive and usually noticed only after people have left.
 ## Author
 
 **Anurag Tiwari**
-[LinkedIn](https://linkedin.com/in/anurag-tiwari-7a13743ba) | [GitHub](https://github.com/Anurag-cmd-ai)
+[LinkedIn](https://linkedin.com/in/anurag-tiwari-7a13743ba) 
