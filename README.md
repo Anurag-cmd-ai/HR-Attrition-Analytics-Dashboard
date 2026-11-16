@@ -1,4 +1,4 @@
-# HR Workforce Attrition Dashboard
+# HR Workforce Attrition Analytics
 
 An interactive Power BI dashboard that shows **who leaves, where, and why** across a 1,470-employee workforce, built on a Star Schema model so HR teams can drill from company-level attrition down to individual job roles.
 
